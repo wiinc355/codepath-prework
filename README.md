@@ -1,5 +1,3 @@
-# codepath-prework
-Codepath prework storyboard
 # Prework - *Storyboard*
 
 Submitted by: **Derrick Woodall**
