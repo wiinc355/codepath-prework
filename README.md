@@ -19,7 +19,20 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
-## App Brainstorming (Step 4)
+## App Brainstorming 
+App: Instagram
+ - Changing the background color of the messages screen
+ - Deleting old messages
+App: Instagram
+ - Changing the background color of the messages screen
+ - Deleting old messages
+App: Instagram
+ - Changing the background color of the messages screen
+ - Deleting old messages
+   
+New app ideas
+ -
+ 
 
 ## Notes
 
