@@ -18,21 +18,18 @@ Is an app that users are see a screen with three labels and a button. Tapping th
 Time spent: **12** hours spent in total
 
 ## App Brainstorming 
-<div>
+
 **App: Instagram**
  - Changing the background color of the messages screen
  - Deleting old messages
-</div>
-<div>
 **App: Instagram**
  - Changing the background color of the messages screen
  - Deleting old messages
-</div>
-<div>
+<p>
 **App: Instagram**
  - Changing the background color of the messages screen
  - Deleting old messages
-</div>
+</p> 
 ## New app ideas
  -
  
