@@ -16,19 +16,6 @@ Is an app that users are see a screen with three labels and a button. Tapping th
 
 Time spent: **12** hours spent in total
 
-## Required Features
-
-The following **required** functionality is completed:
-
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
- 
-## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
 ## App Brainstorming 
 
 App: Instagram
