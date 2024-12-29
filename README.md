@@ -3,6 +3,14 @@
 Submitted by: **Derrick Woodall**
 
 **Storyboard** is an app that... [TODO] 
+<div>
+    <a href="https://www.loom.com/share/a39e3947e35d48888a1e00a16bde3918">
+      <p>Library | Loom - 28 December 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/a39e3947e35d48888a1e00a16bde3918">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a39e3947e35d48888a1e00a16bde3918-084f3235216133e4-full-play.gif">
+    </a>
+  </div>
 
 Time spent: **12** hours spent in total
 
