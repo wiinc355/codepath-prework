@@ -28,7 +28,7 @@ App: Instagram
  - Changing the background color of the messages screen
  - Deleting old messages
    
-New app ideas
+## New app ideas
  -
  
 
