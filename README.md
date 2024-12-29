@@ -2,7 +2,8 @@
 
 Submitted by: **Derrick Woodall**
 
-**Storyboard** is an app that users are see a screen with three labels and a button. Tapping the button changes the screen color to a random color.
+**Storyboard** 
+Is an app that users are see a screen with three labels and a button. Tapping the button changes the screen color to a random color.
 <div>
     <a href="https://www.loom.com/share/a39e3947e35d48888a1e00a16bde3918">
       <p>Library | Loom - 28 December 2024 - Watch Video</p>
