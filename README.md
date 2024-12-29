@@ -19,19 +19,19 @@ Time spent: **12** hours spent in total
 
 ## App Brainstorming 
 <p>
-App: McDonalds
- <p>- Change how to use more then one rewards at a time</p>
- <p>- Change the way the content strolls</p>
+App: Wendy's
+ <p>- That I can redem points and offers on the same order</p>
+ <p>- The home screen is user friendly</p>
 </p> 
 <p>
-App: Facebook
- <p>- Place a visiable time stamp on each post</p>
- <p>- Have a feature that displays previse watch post</p>
+App: Google Voice
+ <p>- That I can have an alternate phone number</p>
+ <p>- That I can record and achieve messages</p>
 </p> 
 <p>
-App: Chick-Fil-A
- <p>- Change the for you button to a resent order or favorites button</p>
- <p>- Have multiple cup of water sizes</p>
+App: Canva
+ <p>- Educator gets the pro version free</p>
+ <p>- I can design on the go</p>
 </p> 
 
 ## New App Ideas
