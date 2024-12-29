@@ -18,13 +18,13 @@ Time spent: **12** hours spent in total
 
 ## App Brainstorming 
 
-App: Instagram
+**App: Instagram**
  - Changing the background color of the messages screen
  - Deleting old messages
-App: Instagram
+**App: Instagram**
  - Changing the background color of the messages screen
  - Deleting old messages
-App: Instagram
+**App: Instagram**
  - Changing the background color of the messages screen
  - Deleting old messages
    
