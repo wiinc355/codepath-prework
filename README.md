@@ -40,7 +40,7 @@ App: Chick-Fil-A
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+N/A
 
 ## License
 
