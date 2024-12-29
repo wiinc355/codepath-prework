@@ -19,24 +19,24 @@ Time spent: **12** hours spent in total
 
 ## App Brainstorming 
 <p>
-App: Instagram
- <p>- Changing the background color of the messages screen</p>
- <p>- Deleting old messages</p>
+App: McDonalds
+ <p>- Change how to use more then one rewards at a time</p>
+ <p>- Change the way the content strolls</p>
 </p> 
 <p>
-App: Instagram
- <p>- Changing the background color of the messages screen</p>
- <p>- Deleting old messages</p>
+App: Facebook
+ <p>- Place a visiable time stamp on each post</p>
+ <p>- Have a feature that displays previse watch post</p>
 </p> 
 <p>
-App: Instagram
- <p>- Changing the background color of the messages screen</p>
- <p>- Deleting old messages</p>
+App: Chick-Fil-A
+ <p>- Change the for you button to a resent order or favorites button</p>
+ <p>- Have multiple cup of water sizes</p>
 </p> 
 
-## New app ideas
- -
- 
+## New App Ideas
+<p>- Create and app to store different manufactures coupons </p>
+<p>- Create and app for manufactures to upload realtime inventory for consumers purchase. To make their shopping convent. </p>
 
 ## Notes
 
