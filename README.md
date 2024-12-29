@@ -26,9 +26,9 @@ Time spent: **12** hours spent in total
  - Changing the background color of the messages screen
  - Deleting old messages
 <p>
-**App: Instagram**
- - Changing the background color of the messages screen
- - Deleting old messages
+App: Instagram
+ <p>- Changing the background color of the messages screen</p>
+ <p>- Deleting old messages</p>
 </p> 
 ## New app ideas
  -
